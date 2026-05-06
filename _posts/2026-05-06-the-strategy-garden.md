@@ -1,19 +1,20 @@
 ---
 layout: post
-title: The Strategy Garden
+title: The Mechanics of the Strategy Garden
+date: 2026-05-06 12:00:00 +0000
 ---
 
-Creativity is mechanical. It requires a hierarchy of space.
+Creativity is a manufacturing process, not a mystical event. 
 
-Ideas evolve through three distinct stages of cultivation:
+Ideas require structured containment to survive. Evolution follows a rigid mechanical hierarchy:
 
-### I. The Glossary
-An idea begins as a definition. Brief, isolated, and searchable. It occupies a single line in a shared index.
+### 1. The Entry (Glossary)
+The atomic unit of thought. A single line in a shared index. Capture the definition before it evaporates.
 
-### II. The One-Pager
-An idea gains gravity. It requires a single page of concentrated thought. Structure, intent, and boundaries are defined.
+### 2. The Expansion (One-Pager)
+The validation of depth. A single page of concentrated focus. If the idea cannot sustain one page, it is discarded.
 
-### III. The Folder
-An idea becomes a project. It earns its own domain. It is no longer a document, but a container for a new world.
+### 3. The Entity (Folder)
+The transition to execution. A dedicated directory. The idea is no longer a concept; it is an environment.
 
-Build the garden. Respect the stages.
+Systematize the growth. Respect the mechanics.
