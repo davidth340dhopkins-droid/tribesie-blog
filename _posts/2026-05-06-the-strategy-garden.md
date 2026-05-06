@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Mechanics of the Strategy Garden
-date: 2026-05-06 06:00:00 +0000
+date: 2026-05-05 12:00:00 +0000
 ---
 
 Creativity is a manufacturing process, not a mystical event. 
